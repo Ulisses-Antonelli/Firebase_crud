@@ -1,0 +1,16 @@
+{
+  "name": "seu-projeto",
+  "version": "1.0.0",
+  "description": "Projeto_Crud_firebase",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "firebase-admin": "^9.12.0"
+  }
+}
